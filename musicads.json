@@ -51,6 +51,12 @@
   
   "AppsPromote": [
     {
+      "name": "HAYEDEH SONG",
+      "packageName": "com.hayedeh1.song.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/f9skY2QYLhZ-zuvxnDv86s6NajmlbJPTiW0vdETZRCdxMWSZUJo8Z_T0yPfZZjRa97M=w240-h480-rw",
+      "download": "+500K"
+    },
+    {
       "name": "MAHASTY SONG",
       "packageName": "com.mahasty.song.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/jzHvIiEAIpqJoioCHT-MVThv93LXMvVmg9LxnJbXjdlVRdlAmCurxxl4aoBs9rXb-A=w240-h480-rw",
@@ -77,7 +83,7 @@
     {
       "name": "MORTEZA PASHAEI",
       "packageName": "com.morteza.pashaei.hugetech",
-      "icon": "https://play-lh.googleusercontent.com/Oo2ms_l5sjudF8jknoC2Y5Q3ZPqmiTtbMVWUFy8ubyRgdujJ6Ry18p2_bBQskqoHwRum=w240-h480-rw",
+      "icon": "https://play-lh.googleusercontent.com/Pm5zq6FGvf5sg2IQbqKuTKFOyUhaiLWgL5-6IGUprrWc397tPbljZpTMq5a1WGcfdw=w240-h480-rw",
       "download": "+480K"
     },
     {
@@ -132,6 +138,12 @@
       "name": "MARJAN SONG",
       "packageName": "com.marjan.song.hugetech",
       "icon": "https://play-lh.googleusercontent.com/1kmfnm27eI2SWKfrc7cgHE5QWWMZxK137n4mJzyvDmxC_uKjbQdYF5-YaxLuGUKMrSc=w240-h480-rw",
+      "download": "+480K"
+    },
+    {
+      "name": "SATIN SONG",
+      "packageName": "com.satin.songs.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/Qad97uBMdFfXcj8XySswux7JPpSqstBZQ4OsheMBvWQIUAAB0_VQ4SGSzOkZpy2Dog=w240-h480-rw",
       "download": "+480K"
     }
   ]
