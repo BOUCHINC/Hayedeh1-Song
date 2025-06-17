@@ -51,16 +51,94 @@
   
   "AppsPromote": [
     {
-      "name": "Bob Marley Offline",
-      "packageName": "com.bob.marley1.hugetech",
-      "icon": "https://play-lh.googleusercontent.com/d9rMA8e4ipIWJxMeUNySF-J2mmHXCVJ1Q3dJNIlFm8wYiSeaRyBJPLT1LzaQlujTL44=w240-h480-rw",
+      "name": "HAYEDEH SONG",
+      "packageName": "com.hayedeh1.song.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/f9skY2QYLhZ-zuvxnDv86s6NajmlbJPTiW0vdETZRCdxMWSZUJo8Z_T0yPfZZjRa97M=w240-h480-rw",
       "download": "+500K"
+    },
+    {
+      "name": "MAHASTY SONG",
+      "packageName": "com.mahasty.song.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/jzHvIiEAIpqJoioCHT-MVThv93LXMvVmg9LxnJbXjdlVRdlAmCurxxl4aoBs9rXb-A=w240-h480-rw",
+      "download": "+600K"
+    },
+    {
+      "name": "SIAVASH GHOMAYSHI",
+      "packageName": "com.siavash.ghomayshi.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/PXm7uJlK7kv_5Y8T0ERqRjdV6KVHKz0cT8qQfYIJzZI4PGHQ7fN-quHjmUqq9h6Yy1M=w240-h480-rw",
+      "download": "+400K"
     },
     {
       "name": "Shatta Wale Offline",
       "packageName": "com.home.scapes2.frastudio",
       "icon": "https://play-lh.googleusercontent.com/Oo2ms_l5sjudF8jknoC2Y5Q3ZPqmiTtbMVWUFy8ubyRgdujJ6Ry18p2_bBQskqoHwRum=w240-h480-rw",
-      "download": "+500K"
+      "download": "+550K"
+    },
+    {
+      "name": "MUSLUM GURSES",
+      "packageName": "com.muslum.gurses.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/ZfgbbqXhq5fMda_oIhrURG5o_DIvX9npwFZSHpDPjjzIlrOz1_9p-Dhp36Soq8VM72A=w240-h480-rw",
+      "download": "+300K"
+    },
+    {
+      "name": "MORTEZA PASHAEI",
+      "packageName": "com.morteza.pashaei.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/Oo2ms_l5sjudF8jknoC2Y5Q3ZPqmiTtbMVWUFy8ubyRgdujJ6Ry18p2_bBQskqoHwRum=w240-h480-rw",
+      "download": "+480K"
+    },
+    {
+      "name": "IRAJ SONG",
+      "packageName": "com.iraj.song.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/n0xbFe73thdGCHc9686Okg1nHkb5dKWl8SVKfLeSQzzsFvw7Mmv70Lc2YCeLcsY2A1F7=w240-h480-rw",
+      "download": "+280K"
+    },
+    {
+      "name": "SIMA BINA",
+      "packageName": "com.sima.bina.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/b_7RclSQEs93PpZIopp2B43Kki6Jh-tObCP6kpdOXO7Z8D2Iqr8zkvTCON-dXul6Gg=w240-h480-rw",
+      "download": "+520K"
+    },
+    {
+      "name": "JAVAD YASARI",
+      "packageName": "com.javad.yasari.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/-oYbvgyp7d6FA012vx-aa9o5wZaW0U0aHHd7zANDZ2PFei9edLy-aGfJFD0ICZIlS20=w240-h480-rw",
+      "download": "+850K"
+    },
+    {
+      "name": "IRAJ BASTAMI",
+      "packageName": "com.iraj.bastami.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/6bHza-QjEvI8NiBScTcFR2zEM8eqiZZ-UAqY3gGTehLNup-l5dcTmF-EiK9lFDt5eT9a=w240-h480-rw",
+      "download": "+350K"
+    },
+    {
+      "name": "AGHASI SONG",
+      "packageName": "com.aghasi.song.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/jsXe5nfPsEjaL8UmQxB68xGywAJl7qYlw81HhaYut-0QB9qXgAdjxQe1D6O2GEo244w=w240-h480-rw",
+      "download": "+4800K"
+    },
+    {
+      "name": "SHAHIN NAJAFI",
+      "packageName": "com.shahin.najafi.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/K62Aw9b0heSEVL8nPVNR9K4Qwl1rFhnV75mqEnVGgBQS3u9m1IeJ68wq0DxRrRtmw-Bq=w240-h480-rw",
+      "download": "+250K"
+    },
+    {
+      "name": "NASER RAZAZI",
+      "packageName": "com.naser.razazi.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/yEo8hOSttlMpen12trSxjfxD9evidBJfHNBbiV2N6BMwDkKmM39GVvrDqD2BGQ_IjOU=w240-h480-rw",
+      "download": "+550K"
+    },
+    {
+      "name": "MARDIH SONG",
+      "packageName": "com.mardih.songs.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/Xlv1FaDeM0yewX5UOxjsJNPe4LfWdmC-MXJY00TP0FJw8sb1cOuv_1GC0HZsgLYMLA=w240-h480-rw",
+      "download": "+680K"
+    },
+    {
+      "name": "MARJAN SONG",
+      "packageName": "com.marjan.song.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/1kmfnm27eI2SWKfrc7cgHE5QWWMZxK137n4mJzyvDmxC_uKjbQdYF5-YaxLuGUKMrSc=w240-h480-rw",
+      "download": "+480K"
     }
   ]
   
